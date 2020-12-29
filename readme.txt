@@ -1,3 +1,9 @@
+Install gloptipoly3 
+http://homepages.laas.fr/henrion/software/gloptipoly/
+and
+sedumi 
+http://sedumi.ie.lehigh.edu/?page_id=58
+
 Execute
 
 example_infP.m  for executing the algorithm infP.
